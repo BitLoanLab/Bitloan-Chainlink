@@ -28,13 +28,13 @@ We obtained the price of ETH on the test network through chainlink's oracle mach
 ## Submit information
 
 Github:https://github.com/BitLoanLab  
-Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts
+Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts  
 Front end:https://github.com/BitLoanLab/bitloan-front-end  
 PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC  
 
 ## Youtube Video
 
- https://youtu.be/TXTucu6lU0U
+https://youtu.be/9VgrLrtOScE
 
 ## Contract deployment information
 
