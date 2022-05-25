@@ -3,7 +3,6 @@ pragma solidity ^0.8.0;
 
 import "../interface/IRbtDeposit721.sol";
 import "../library/TransferHelper.sol";
-import "../chainlink/PriceConsumerV3.sol";
 
 contract LoanMarket {
 
