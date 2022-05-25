@@ -3,7 +3,7 @@
 
 ## Project name
 
-BitLoan
+BitLoan marketplace
 
 ## Project official website
 
